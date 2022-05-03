@@ -6462,7 +6462,6 @@
             localStorage.setItem("theme", this.value), applyTheme(this.value);
           });
       }),
-      (window.FLS = !0),
       (function (e) {
         let t = new Image();
         (t.onload = t.onerror =

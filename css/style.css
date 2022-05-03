@@ -3734,7 +3734,7 @@ body.popup-show::after {
   align-items: center;
 }
 ._showmore-active .latest-stories__box {
-  padding-top: 2rem;
+  margin-top: 2rem;
 }
 .latest-stories__link {
   display: flex;
