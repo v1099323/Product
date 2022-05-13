@@ -1318,6 +1318,9 @@ body.popup-show::after {
 .dark-theme .received {
   background: #22343D;
 }
+.dark-theme .choose-product {
+  background: #22343D;
+}
 .dark-theme .block-work__title {
   color: #fff;
 }
